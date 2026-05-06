@@ -1,5 +1,5 @@
 {
-  "name": "vidbee-workspace",
+  "name": "ALEX_O",
   "private": true,
   "scripts": {
     "check": "pnpm --filter ./apps/desktop run check",
